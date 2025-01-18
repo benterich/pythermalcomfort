@@ -69,6 +69,12 @@ Joint system thermoregulation model (JOS-3)
     :undoc-members:
     :special-members: __init__
 
+Mean Radiant Temperature (MRT)
+------------------------------
+
+.. autofunction:: pythermalcomfort.models.mean_radiant_temperature.mean_radiant_temperature
+
+
 Normal Effective Temperature (NET)
 ----------------------------------
 
