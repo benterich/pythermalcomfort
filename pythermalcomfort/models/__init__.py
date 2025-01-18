@@ -26,3 +26,4 @@ from pythermalcomfort.models.athb import athb
 from pythermalcomfort.models.jos3 import JOS3
 from pythermalcomfort.models.atcs import ATCS
 from pythermalcomfort.models.zhang_comfort import zhang_sensation_comfort
+from pythermalcomfort.models.mean_radiant_temperature import mean_radiant_temperature
